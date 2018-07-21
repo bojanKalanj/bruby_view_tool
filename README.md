@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = BrubyViewTool::Renderer.copyright 'Name', 'Message'
+```
 
 ## Development
 
